@@ -2,6 +2,9 @@
   padding: 8px;
   font-size: 1.2rem;
 }
+.nav-text {
+  color: white;
+}
 .nav-text:hover {
   color: #23e9a4;
 }
@@ -14,6 +17,9 @@
 }
 .nav-head {
   color: white;
+}
+.navbar-toggler-icon {
+  background-image: url(images/toggler-image.png);
 }
 
 /* CONTENT  */
