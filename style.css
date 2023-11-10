@@ -1,0 +1,38 @@
+.nav-text {
+  padding: 8px;
+  font-size: 1.2rem;
+}
+.nav-text:hover {
+  color: #23e9a4;
+}
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  margin-left: 15px;
+}
+.nav-head {
+  color: white;
+}
+
+/* CONTENT  */
+#content {
+  margin-top: 100px;
+}
+.content-text {
+  text-align: center;
+}
+.content-card {
+  margin: 10px;
+}
+.content-card:hover {
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
+/* FOOTER  */
+#footer {
+  background-color: black;
+  color: white;
+}
